@@ -44,5 +44,5 @@ All projects under the parsec.io organization are open source, licensed under th
 A big thank you to all contributors and supporters of the parsec.io community. Your dedication, contributions, and enthusiasm keep this community thriving.
 
 ## Current Contributors
-- [0xSingularity](github.com/0x-Singularity)
-- [Spawn](github.com/themanwiththeplan-eng)
+- [0xSingularity](https://github.com/0x-Singularity)
+- [Spawn](https://github.com/themanwiththeplan-eng)
